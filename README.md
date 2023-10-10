@@ -1,0 +1,1 @@
+Se creo un programa el cual dependiendo el numero entero se saca el factorial de ese numero mendiante la recursividad y por ciclo.
